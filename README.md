@@ -1,0 +1,2 @@
+# diplnuraiata
+getcourse
